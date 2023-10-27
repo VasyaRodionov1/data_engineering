@@ -1,0 +1,30 @@
+[
+  {
+    "accuracy": 1000,
+    "area_code": "0",
+    "asn": 15169,
+    "continent_code": "NA",
+    "country": "United States",
+    "country_code": "US",
+    "country_code3": "USA",
+    "ip": "8.8.8.8",
+    "latitude": "37.751",
+    "longitude": "-97.822",
+    "organization": "AS15169 Google LLC",
+    "organization_name": "Google LLC"
+  },
+  {
+    "accuracy": 1000,
+    "area_code": "0",
+    "asn": 14907,
+    "continent_code": "NA",
+    "country": "United States",
+    "country_code": "US",
+    "country_code3": "USA",
+    "ip": "198.35.26.96",
+    "latitude": "37.751",
+    "longitude": "-97.822",
+    "organization": "AS14907 Wikimedia Foundation Inc.",
+    "organization_name": "Wikimedia Foundation Inc."
+  }
+]
